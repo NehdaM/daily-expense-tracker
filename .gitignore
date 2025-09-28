@@ -1,0 +1,12 @@
+# Python-Django
+
+**/__pycache__/
+backend/db.sqlite3
+backend/*.pyc
+
+# Virtual environment and env var
+# venv/
+# env/
+# .env
+
+.vscode/
